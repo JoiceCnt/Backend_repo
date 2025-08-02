@@ -139,6 +139,14 @@
       "status": "available",
       "note": "",
       "id": 1
+    },
+    {
+      "date": "2025-08-06",
+      "time": "09:00",
+      "status": "booked",
+      "patientId": "7",
+      "note": "",
+      "id": 2
     }
   ],
   "patients": [
@@ -225,6 +233,12 @@
       "username": "Joao.stock",
       "password": "1234",
       "id": 14
+    },
+    {
+      "name": "Noemi Mira",
+      "username": "Noemi.mira",
+      "password": "1234",
+      "id": 15
     }
   ]
 }
