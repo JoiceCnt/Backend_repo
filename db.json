@@ -137,8 +137,25 @@
       "date": "2025-08-03",
       "time": "15:00",
       "status": "available",
+      "patient": null,
       "note": "",
       "id": 1
+    },
+    {
+      "date": "2025-08-04",
+      "time": "14:00",
+      "status": "available",
+      "patient": null,
+      "note": "",
+      "id": 2
+    },
+    {
+      "date": "2025-08-03",
+      "time": "14:00",
+      "status": "available",
+      "patient": null,
+      "note": "",
+      "id": 3
     }
   ],
   "patients": [
