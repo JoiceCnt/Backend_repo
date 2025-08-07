@@ -151,60 +151,78 @@
       "prompt": "Feeling nervous? Want to talk about what’s making you feel that way?",
       "description": "surprise!!!",
       "id": 8
-    },
-    {
-      "patientId": "15",
-      "patientName": "Noemi Mira",
-      "date": "2025-08-03",
-      "emojiId": "e08",
-      "nameId": "Fearful",
-      "prompt": "Fear can feel heavy. Would you like to share what’s behind it today?",
-      "description": "test emotion and commets",
-      "id": 9
-    },
-    {
-      "patientId": "15",
-      "patientName": "Noemi Mira",
-      "date": "2025-08-03",
-      "emojiId": "e12",
-      "nameId": "Grateful",
-      "prompt": "Gratitude is beautiful. What are you thankful for today?",
-      "description": "gut day!!!",
-      "id": 10
-    },
-    {
-      "patientId": "15",
-      "patientName": "Noemi Mira",
-      "date": "2025-08-03",
-      "emojiId": "e05",
-      "nameId": "Tired",
-      "prompt": "You’re feeling tired today. Want to talk about what’s been draining you?",
-      "description": "ewag",
-      "id": 11
     }
   ],
   "appointments": [
     {
-      "date": "2025-08-03",
+      "date": "2025-08-05",
       "time": "15:00",
       "status": "available",
       "patient": null,
       "note": "",
-      "id": 1
+      "id": 5
+    },
+    {
+      "date": "2025-08-05",
+      "time": "16:00",
+      "status": "booked",
+      "patientId": "14",
+      "note": "",
+      "id": 20
+    },
+    {
+      "date": "2025-08-07",
+      "time": "15:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 24
+    },
+    {
+      "date": "2025-08-12",
+      "time": "11:00",
+      "status": "booked",
+      "patientId": "11",
+      "note": "",
+      "id": 25
+    },
+    {
+      "date": "2025-08-06",
+      "time": "11:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 26
     },
     {
       "date": "2025-08-04",
-      "time": "14:00",
-      "status": "available",
-      "patient": null,
+      "time": "10:00",
+      "status": "booked",
+      "patientId": "7",
       "note": "",
-      "id": 2
+      "id": 27
     },
     {
-      "date": "2025-08-03",
+      "date": "2025-08-07",
+      "time": "11:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 28
+    },
+    {
+      "date": "2025-07-28",
+      "time": "14:00",
+      "status": "booked",
+      "patientId": "11",
+      "note": "",
+      "id": 31
+    },
+    {
+      "date": "2025-08-08",
       "time": "14:00",
       "status": "available",
-      "patient": null,
+      "patientId": null,
       "note": "",
       "id": 3
     },
@@ -247,86 +265,6 @@
       "patientId": "15",
       "note": "",
       "id": 8
-    },
-    {
-      "date": "2025-08-06",
-      "time": "14:00",
-      "status": "booked",
-      "patientId": "15",
-      "note": "",
-      "id": 9
-    },
-    {
-      "date": "2025-08-11",
-      "time": "10:00",
-      "status": "booked",
-      "patientId": "15",
-      "note": "",
-      "id": 12
-    },
-    {
-      "date": "2025-08-08",
-      "time": "15:00",
-      "status": "booked",
-      "patientId": "8",
-      "note": "",
-      "id": 15
-    },
-    {
-      "date": "2025-08-12",
-      "time": "15:00",
-      "status": "booked",
-      "patientId": "9",
-      "note": "",
-      "id": 17
-    },
-    {
-      "date": "2025-08-13",
-      "time": "10:00",
-      "status": "booked",
-      "patientId": "10",
-      "note": "",
-      "id": 18
-    },
-    {
-      "date": "2025-08-14",
-      "time": "15:00",
-      "status": "booked",
-      "patientId": "15",
-      "note": "",
-      "id": 19
-    },
-    {
-      "date": "2025-08-16",
-      "time": "09:00",
-      "status": "booked",
-      "patientId": "15",
-      "note": "",
-      "id": 20
-    },
-    {
-      "date": "2025-08-08",
-      "time": "09:00",
-      "status": "booked",
-      "patientId": "15",
-      "note": "",
-      "id": 21
-    },
-    {
-      "date": "2025-08-06",
-      "time": "09:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 22
-    },
-    {
-      "date": "2025-08-10",
-      "time": "11:00",
-      "status": "booked",
-      "patientId": "11",
-      "note": "",
-      "id": 23
     }
   ],
   "patients": [
@@ -394,7 +332,9 @@
       "name": "Joice Conte",
       "username": "Joice.conte",
       "password": "1234",
-      "id": 11
+      "id": 11,
+      "email": "joiceconte@gmail.com",
+      "birthday": "0086-03-22"
     },
     {
       "name": "Josh",
@@ -403,26 +343,16 @@
       "id": 12
     },
     {
-      "name": "Noemi Mira",
-      "username": "Noemi.mira",
-      "password": "1234",
-      "id": 15,
-      "email": "n.miranavarro@gmail.com",
-      "birthDate": "2015-12-15"
-    },
-    {
       "name": "Adrian",
       "username": "Gonzalez",
       "password": "1234",
       "id": 16
     },
     {
-      "name": "Pepa Perez",
-      "username": "Pepa.perez",
+      "name": "Noemi Mira",
+      "username": "Noemi.mira",
       "password": "1234",
-      "email": "p.perez@gmail.com",
-      "birthDate": "55555",
-      "id": 17
+      "id": 15
     }
   ]
 }
