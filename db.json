@@ -123,6 +123,7 @@
   ],
   "logs": [
     {
+<<<<<<< HEAD
       "patientId": "11",
       "date": "2025-08-02",
       "emojiId": "e03",
@@ -309,6 +310,36 @@
       "prompt": "I noticed you're feeling angry today. What triggered this emotion?",
       "description": "xsac",
       "id": 19
+=======
+      "patientId": "15",
+      "patientName": "Noemi Mira",
+      "date": "2025-08-03",
+      "emojiId": "e07",
+      "nameId": "Confused",
+      "prompt": "Feeling a bit unsure? Want to explore what’s behind it?",
+      "description": "raro raro",
+      "id": 6
+    },
+    {
+      "patientId": "15",
+      "patientName": "Noemi Mira",
+      "date": "2025-08-03",
+      "emojiId": "e13",
+      "nameId": "Frustrated",
+      "prompt": "Frustration showed up today. What’s been bothering you?",
+      "description": "easy",
+      "id": 7
+    },
+    {
+      "patientId": "15",
+      "patientName": "Noemi Mira",
+      "date": "2025-08-03",
+      "emojiId": "e15",
+      "nameId": "Nervous",
+      "prompt": "Feeling nervous? Want to talk about what’s making you feel that way?",
+      "description": "surprise!!!",
+      "id": 8
+>>>>>>> b9f64d1407358b88f2acd7b407323caa40069c6c
     }
   ],
   "appointments": [
@@ -382,6 +413,7 @@
       "status": "available",
       "patientId": null,
       "note": "",
+<<<<<<< HEAD
       "id": 32
     },
     {
@@ -503,6 +535,49 @@
       "patientId": null,
       "note": "",
       "id": 48
+=======
+      "id": 3
+    },
+    {
+      "date": "2025-08-05",
+      "time": "14:00",
+      "status": "booked",
+      "patientId": "8",
+      "note": "",
+      "id": 4
+    },
+    {
+      "date": "2025-07-29",
+      "time": "11:00",
+      "status": "booked",
+      "patientId": "15",
+      "note": "",
+      "id": 5
+    },
+    {
+      "date": "2025-07-15",
+      "time": "14:00",
+      "status": "booked",
+      "patientId": "15",
+      "note": "",
+      "id": 6
+    },
+    {
+      "date": "2025-08-01",
+      "time": "16:00",
+      "status": "booked",
+      "patientId": "15",
+      "note": "",
+      "id": 7
+    },
+    {
+      "date": "2025-07-31",
+      "time": "15:00",
+      "status": "booked",
+      "patientId": "15",
+      "note": "",
+      "id": 8
+>>>>>>> b9f64d1407358b88f2acd7b407323caa40069c6c
     }
   ],
   "patients": [
@@ -587,6 +662,7 @@
       "id": 14
     },
     {
+<<<<<<< HEAD
       "name": "Larissa Santos",
       "username": "Lari.santos",
       "password": "1234",
@@ -657,6 +733,12 @@
       "email": "Timalmuralage@gmail.com",
       "birthDate": "1996-05-03",
       "id": 23
+=======
+      "name": "Noemi Mira",
+      "username": "Noemi.mira",
+      "password": "1234",
+      "id": 15
+>>>>>>> b9f64d1407358b88f2acd7b407323caa40069c6c
     }
   ]
 }
