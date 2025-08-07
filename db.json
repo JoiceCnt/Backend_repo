@@ -133,14 +133,14 @@
       "id": 6
     },
     {
-      "patientId": "15",
-      "patientName": "Noemi Mira",
-      "date": "2025-08-03",
-      "emojiId": "e13",
-      "nameId": "Frustrated",
-      "prompt": "Frustration showed up today. What’s been bothering you?",
-      "description": "easy",
-      "id": 7
+      "patientId": "11",
+      "patientName": "Joice Conte",
+      "date": "2025-08-07",
+      "emojiId": "e04",
+      "nameId": "Anxious",
+      "prompt": "Feeling anxious today — care to share what’s causing it?",
+      "description": "wtf",
+      "id": 21
     },
     {
       "patientId": "15",
@@ -151,36 +151,6 @@
       "prompt": "Feeling nervous? Want to talk about what’s making you feel that way?",
       "description": "surprise!!!",
       "id": 8
-    },
-    {
-      "patientId": "11",
-      "patientName": "Joice Conte",
-      "date": "2025-08-07",
-      "emojiId": "e13",
-      "nameId": "Frustrated",
-      "prompt": "Frustration showed up today. What’s been bothering you?",
-      "description": "holaaa!",
-      "id": 9
-    },
-    {
-      "patientId": "12",
-      "patientName": "Josh",
-      "date": "2025-08-07",
-      "emojiId": "e01",
-      "nameId": "Happy",
-      "prompt": "That's great to see! What brought you joy today?",
-      "description": "easyyy!!!",
-      "id": 10
-    },
-    {
-      "patientId": "12",
-      "patientName": "Josh",
-      "date": "2025-08-07",
-      "emojiId": "e14",
-      "nameId": "Disappointed",
-      "prompt": "Disappointment can weigh us down. Want to share what led to it?",
-      "description": "noooo",
-      "id": 11
     }
   ],
   "appointments": [
@@ -373,10 +343,10 @@
       "id": 12
     },
     {
-      "name": "Adrian",
-      "username": "Gonzalez",
+      "name": "João Stock",
+      "username": "Joao.stock",
       "password": "1234",
-      "id": 16
+      "id": 14
     },
     {
       "name": "Noemi Mira",
