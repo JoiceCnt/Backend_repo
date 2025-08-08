@@ -542,14 +542,6 @@
     },
     {
       "date": "2025-08-08",
-      "time": "13:00",
-      "status": "booked",
-      "patientId": "7",
-      "note": "",
-      "id": 46
-    },
-    {
-      "date": "2025-08-08",
       "time": "16:00",
       "status": "available",
       "patientId": null,
@@ -619,6 +611,94 @@
       "patientId": null,
       "note": "",
       "id": 55
+    },
+    {
+      "date": "2025-08-08",
+      "time": "14:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 56
+    },
+    {
+      "date": "2025-08-15",
+      "time": "11:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 57
+    },
+    {
+      "date": "2025-08-13",
+      "time": "17:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 58
+    },
+    {
+      "date": "2025-08-19",
+      "time": "09:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 59
+    },
+    {
+      "date": "2025-08-19",
+      "time": "12:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 60
+    },
+    {
+      "date": "2025-08-20",
+      "time": "13:00",
+      "status": "booked",
+      "patientId": "10",
+      "note": "",
+      "id": 62
+    },
+    {
+      "date": "2025-08-18",
+      "time": "10:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 63
+    },
+    {
+      "date": "2025-08-18",
+      "time": "11:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 64
+    },
+    {
+      "date": "2025-08-18",
+      "time": "12:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 65
+    },
+    {
+      "date": "2025-08-18",
+      "time": "14:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 66
+    },
+    {
+      "date": "2025-08-18",
+      "time": "15:00",
+      "status": "available",
+      "patientId": null,
+      "note": "",
+      "id": 67
     }
   ],
   "patients": [
