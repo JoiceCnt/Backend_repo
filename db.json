@@ -349,6 +349,66 @@
       "prompt": "You’re feeling tired today. Want to talk about what’s been draining you?",
       "description": "zcasc",
       "id": 23
+    },
+    {
+      "patientId": "24",
+      "patientName": "Noemi Navarro",
+      "date": "2025-08-07",
+      "emojiId": "e03",
+      "nameId": "Angry",
+      "prompt": "I noticed you're feeling angry today. What triggered this emotion?",
+      "description": "funciona????",
+      "id": 24
+    },
+    {
+      "patientId": "24",
+      "patientName": "Noemi Navarro",
+      "date": "2025-08-07",
+      "emojiId": "e10",
+      "nameId": "Calm",
+      "prompt": "Calmness is valuable. What helped you feel at peace today?",
+      "description": "siiii",
+      "id": 25
+    },
+    {
+      "patientId": "24",
+      "patientName": "Noemi Navarro",
+      "date": "2025-08-08",
+      "emojiId": "e05",
+      "nameId": "Tired",
+      "prompt": "You’re feeling tired today. Want to talk about what’s been draining you?",
+      "description": "tired!!",
+      "id": 26
+    },
+    {
+      "patientId": "24",
+      "patientName": "Noemi Navarro",
+      "date": "2025-08-08",
+      "emojiId": "e02",
+      "nameId": "Sad",
+      "prompt": "Sadness showed up today. Would you like to share why?",
+      "description": "scroll",
+      "id": 27
+    },
+    {
+      "patientId": "24",
+      "patientName": "Noemi Navarro",
+      "date": "2025-08-08",
+      "emojiId": "e02",
+      "nameId": "Sad",
+      "prompt": "Sadness showed up today. Would you like to share why?",
+      "description": "sad",
+      "id": 28
+    },
+    {
+      "patientId": "24",
+      "patientName": "Noemi Navarro",
+      "date": "2025-08-08",
+      "emojiId": "e03",
+      "nameId": "Angry",
+      "prompt": "I noticed you're feeling angry today. What triggered this emotion?",
+      "description": "hello\"\"",
+      "id": 29
     }
   ],
   "appointments": [
@@ -435,8 +495,8 @@
     {
       "date": "2025-08-08",
       "time": "15:00",
-      "status": "available",
-      "patientId": null,
+      "status": "booked",
+      "patientId": "24",
       "note": "",
       "id": 38
     },
@@ -721,6 +781,14 @@
       "email": "noeminavarro@gmail.com",
       "birthDate": "1999-10-27",
       "id": 24
+    },
+    {
+      "name": "Jose Gonzalez",
+      "username": "Jose.gonzalez",
+      "password": "1234",
+      "email": "j.gonzalez@gmail.com",
+      "birthDate": "1999-10-27",
+      "id": 25
     }
   ]
 }
