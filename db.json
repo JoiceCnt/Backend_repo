@@ -409,6 +409,36 @@
       "prompt": "I noticed you're feeling angry today. What triggered this emotion?",
       "description": "hello\"\"",
       "id": 29
+    },
+    {
+      "patientId": "24",
+      "patientName": "Noemi Navarro",
+      "date": "2025-08-08",
+      "emojiId": "e02",
+      "nameId": "Sad",
+      "prompt": "Sadness showed up today. Would you like to share why?",
+      "description": "super!!!!",
+      "id": 30
+    },
+    {
+      "patientId": "25",
+      "patientName": "Jose Gonzalez",
+      "date": "2025-08-08",
+      "emojiId": "e03",
+      "nameId": "Angry",
+      "prompt": "I noticed you're feeling angry today. What triggered this emotion?",
+      "description": "Ich spreche Deutsch!",
+      "id": 31
+    },
+    {
+      "patientId": "24",
+      "patientName": "Noemi Navarro",
+      "date": "2025-08-08",
+      "emojiId": "e07",
+      "nameId": "Confused",
+      "prompt": "Feeling a bit unsure? Want to explore what’s behind it?",
+      "description": "ewv ",
+      "id": 32
     }
   ],
   "appointments": [
@@ -611,94 +641,6 @@
       "patientId": null,
       "note": "",
       "id": 55
-    },
-    {
-      "date": "2025-08-08",
-      "time": "14:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 56
-    },
-    {
-      "date": "2025-08-15",
-      "time": "11:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 57
-    },
-    {
-      "date": "2025-08-13",
-      "time": "17:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 58
-    },
-    {
-      "date": "2025-08-19",
-      "time": "09:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 59
-    },
-    {
-      "date": "2025-08-19",
-      "time": "12:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 60
-    },
-    {
-      "date": "2025-08-20",
-      "time": "13:00",
-      "status": "booked",
-      "patientId": "10",
-      "note": "",
-      "id": 62
-    },
-    {
-      "date": "2025-08-18",
-      "time": "10:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 63
-    },
-    {
-      "date": "2025-08-18",
-      "time": "11:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 64
-    },
-    {
-      "date": "2025-08-18",
-      "time": "12:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 65
-    },
-    {
-      "date": "2025-08-18",
-      "time": "14:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 66
-    },
-    {
-      "date": "2025-08-18",
-      "time": "15:00",
-      "status": "available",
-      "patientId": null,
-      "note": "",
-      "id": 67
     }
   ],
   "patients": [
